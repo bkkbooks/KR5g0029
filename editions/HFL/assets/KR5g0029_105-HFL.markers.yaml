@@ -45,6 +45,7 @@ markers:
   - {type: line-break, offset: 26, content: '', id: KR5g0029_HFL_105-001a06}
   - {type: indent, offset: 26, content: 　　　, id: KR5g0029_HFL_105-bkkind5}
   - {type: punctuation, offset: 35, content: (, id: KR5g0029_HFL_105-bkkpn1}
+  - {type: voice, offset: 35, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 39, content: ), id: KR5g0029_HFL_105-bkkpn2}
   - {type: 'kr:newline', offset: 39, content: '
 
@@ -699,6 +700,7 @@ markers:
   - {type: line-break, offset: 673, content: '', id: KR5g0029_HFL_105-009a02}
   - {type: indent, offset: 673, content: 　　　, id: KR5g0029_HFL_105-bkkind71}
   - {type: punctuation, offset: 680, content: (, id: KR5g0029_HFL_105-bkkpn3}
+  - {type: voice, offset: 680, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 682, content: ), id: KR5g0029_HFL_105-bkkpn4}
   - {type: 'kr:newline', offset: 682, content: '
 
@@ -1060,6 +1062,7 @@ markers:
   - {type: line-break, offset: 963, content: '', id: KR5g0029_HFL_105-013b01}
   - {type: indent, offset: 963, content: 　　　, id: KR5g0029_HFL_105-bkkind102}
   - {type: punctuation, offset: 970, content: (, id: KR5g0029_HFL_105-bkkpn5}
+  - {type: voice, offset: 970, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 974, content: ), id: KR5g0029_HFL_105-bkkpn6}
   - {type: 'kr:newline', offset: 974, content: '
 
@@ -1674,6 +1677,7 @@ markers:
   - {type: line-break, offset: 1550, content: '', id: KR5g0029_HFL_105-020b04}
   - {type: indent, offset: 1550, content: 　　　, id: KR5g0029_HFL_105-bkkind158}
   - {type: punctuation, offset: 1557, content: (, id: KR5g0029_HFL_105-bkkpn7}
+  - {type: voice, offset: 1557, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 1558, content: ), id: KR5g0029_HFL_105-bkkpn8}
   - {type: 'kr:newline', offset: 1558, content: '
 
@@ -1755,4 +1759,4 @@ markers:
 
       ', id: KR5g0029_HFL_105-bkkkrnewl459}
   back: []
-hash: sha256:a52225e2e05047e2528db595835e8ef91834c8bb3ad70c4b04b4c062a87810f4
+hash: sha256:981d77622c0d2ea8159ee4fee910d87f31328f71ff11b84bb880eff443ed6534

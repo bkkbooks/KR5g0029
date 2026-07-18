@@ -175,6 +175,7 @@ markers:
   - {type: line-break, offset: 105, content: '', id: KR5g0029_SJB_140-290708b04}
   - {type: indent, offset: 105, content: 　　, id: KR5g0029_ZTDZ_140-bkkind40}
   - {type: punctuation, offset: 113, content: (, id: KR5g0029_ZTDZ_140-bkkpn14}
+  - {type: voice, offset: 113, length: 8, name: note, id: n1}
   - {type: punctuation, offset: 117, content: /, id: KR5g0029_ZTDZ_140-bkkpn15}
   - {type: punctuation, offset: 121, content: ), id: KR5g0029_ZTDZ_140-bkkpn16}
   - {type: 'kr:newline', offset: 121, content: '
@@ -214,6 +215,7 @@ markers:
   - {type: line-break, offset: 136, content: '', id: KR5g0029_SJB_140-290708b08}
   - {type: indent, offset: 136, content: 　　　, id: KR5g0029_ZTDZ_140-bkkind56}
   - {type: punctuation, offset: 136, content: (, id: KR5g0029_ZTDZ_140-bkkpn17}
+  - {type: voice, offset: 136, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 137, content: ), id: KR5g0029_ZTDZ_140-bkkpn18}
   - {type: 'kr:newline', offset: 137, content: '
 
@@ -624,6 +626,7 @@ markers:
   - {type: line-break, offset: 479, content: '', id: KR5g0029_SJB_140-290710a08}
   - {type: indent, offset: 479, content: 　　　, id: KR5g0029_ZTDZ_140-bkkind123}
   - {type: punctuation, offset: 482, content: (, id: KR5g0029_ZTDZ_140-bkkpn51}
+  - {type: voice, offset: 482, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 484, content: /, id: KR5g0029_ZTDZ_140-bkkpn52}
   - {type: punctuation, offset: 486, content: ), id: KR5g0029_ZTDZ_140-bkkpn53}
   - {type: paragraph-break, offset: 486, content: '
@@ -755,6 +758,7 @@ markers:
   - {type: line-break, offset: 527, content: '', id: KR5g0029_SJB_140-290710c03}
   - {type: indent, offset: 527, content: 　　　　　　　　　　　, id: KR5g0029_ZTDZ_140-bkkind136}
   - {type: punctuation, offset: 527, content: (, id: KR5g0029_ZTDZ_140-bkkpn67}
+  - {type: voice, offset: 527, length: 9, name: note, id: n4}
   - {type: punctuation, offset: 532, content: /, id: KR5g0029_ZTDZ_140-bkkpn68}
   - {type: punctuation, offset: 536, content: ), id: KR5g0029_ZTDZ_140-bkkpn69}
   - {type: paragraph-break, offset: 536, content: '
@@ -1888,4 +1892,4 @@ markers:
 
       ', id: KR5g0029_ZTDZ_140-bkkp74}
   back: []
-hash: sha256:96f2c1d0707870f53fc0dc7c6a996c2a4528a22526e5ebaa1a0eb8d7ad3127bf
+hash: sha256:0f160f800a2bf1a2e9e56a58e8a598de329e0d90c5e5f4f624465880940636ed

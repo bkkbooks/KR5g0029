@@ -866,6 +866,7 @@ markers:
   - {type: line-break, offset: 1748, content: '', id: KR5g0029_HFL_176-008a02}
   - {type: indent, offset: 1748, content: 　, id: KR5g0029_krp_176-bkkind174}
   - {type: punctuation, offset: 1756, content: (, id: KR5g0029_krp_176-bkkpn1}
+  - {type: voice, offset: 1756, length: 14, name: note, id: n1}
   - {type: substitution, offset: 1759, original: 眞, replacement: 真, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19545}}
   - {type: punctuation, offset: 1763, content: /, id: KR5g0029_krp_176-bkkpn2}
   - {type: punctuation, offset: 1770, content: ), id: KR5g0029_krp_176-bkkpn3}
@@ -935,6 +936,7 @@ markers:
   - {type: line-break, offset: 1884, content: '', id: KR5g0029_HFL_176-008b03}
   - {type: indent, offset: 1884, content: 　　　, id: KR5g0029_krp_176-bkkind182}
   - {type: punctuation, offset: 1889, content: (, id: KR5g0029_krp_176-bkkpn4}
+  - {type: voice, offset: 1889, length: 6, name: note, id: n2}
   - {type: punctuation, offset: 1892, content: /, id: KR5g0029_krp_176-bkkpn5}
   - {type: punctuation, offset: 1895, content: ), id: KR5g0029_krp_176-bkkpn6}
   - {type: 'kr:newline', offset: 1895, content: '
@@ -1065,6 +1067,7 @@ markers:
       ', id: KR5g0029_krp_176-bkkkrnewl193}
   - {type: line-break, offset: 2151, content: '', id: KR5g0029_HFL_176-009b07}
   - {type: punctuation, offset: 2156, content: (, id: KR5g0029_krp_176-bkkpn7}
+  - {type: voice, offset: 2156, length: 8, name: note, id: n3}
   - {type: punctuation, offset: 2160, content: /, id: KR5g0029_krp_176-bkkpn8}
   - {type: punctuation, offset: 2164, content: ), id: KR5g0029_krp_176-bkkpn9}
   - {type: 'kr:newline', offset: 2164, content: '
@@ -1699,4 +1702,4 @@ markers:
 
       ', id: KR5g0029_krp_176-bkkkrnewl308}
   back: []
-hash: sha256:335cf91b6d3af34fa055499c93f938e0a5927c814d2bb07c0fb54fcc64a9501f
+hash: sha256:a7f91f1a9a46126108431db9940df5858392171eb5203e996741fdc88361ea49

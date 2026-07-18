@@ -26,20 +26,26 @@ markers:
       ', id: KR5g0029_ZTDZ_100-bkkkrnewl3}
   - {type: line-break, offset: 13, content: '', id: KR5g0029_SJB_100-290436a05}
   - {type: punctuation, offset: 17, content: (, id: KR5g0029_ZTDZ_100-bkkpn1}
+  - {type: voice, offset: 17, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 18, content: ), id: KR5g0029_ZTDZ_100-bkkpn2}
   - {type: punctuation, offset: 22, content: (, id: KR5g0029_ZTDZ_100-bkkpn3}
+  - {type: voice, offset: 22, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 23, content: ), id: KR5g0029_ZTDZ_100-bkkpn4}
   - {type: punctuation, offset: 27, content: (, id: KR5g0029_ZTDZ_100-bkkpn5}
+  - {type: voice, offset: 27, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 28, content: ), id: KR5g0029_ZTDZ_100-bkkpn6}
   - {type: 'kr:newline', offset: 30, content: '
 
       ', id: KR5g0029_ZTDZ_100-bkkkrnewl4}
   - {type: line-break, offset: 30, content: '', id: KR5g0029_SJB_100-290436a06}
   - {type: punctuation, offset: 32, content: (, id: KR5g0029_ZTDZ_100-bkkpn7}
+  - {type: voice, offset: 32, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 33, content: ), id: KR5g0029_ZTDZ_100-bkkpn8}
   - {type: punctuation, offset: 37, content: (, id: KR5g0029_ZTDZ_100-bkkpn9}
+  - {type: voice, offset: 37, length: 1, name: note, id: n5}
   - {type: punctuation, offset: 38, content: ), id: KR5g0029_ZTDZ_100-bkkpn10}
   - {type: punctuation, offset: 42, content: (, id: KR5g0029_ZTDZ_100-bkkpn11}
+  - {type: voice, offset: 42, length: 2, name: note, id: n6}
   - {type: punctuation, offset: 44, content: ), id: KR5g0029_ZTDZ_100-bkkpn12}
   - {type: 'kr:newline', offset: 47, content: '
 
@@ -331,6 +337,7 @@ markers:
   - {type: indent, offset: 578, content: 　　　　, id: KR5g0029_ZTDZ_100-bkkind29}
   - {type: indent, offset: 579, content: 　, id: KR5g0029_ZTDZ_100-bkkind30}
   - {type: punctuation, offset: 579, content: (, id: KR5g0029_ZTDZ_100-bkkpn18}
+  - {type: voice, offset: 579, length: 1, name: note, id: n7}
   - {type: punctuation, offset: 580, content: ), id: KR5g0029_ZTDZ_100-bkkpn19}
   - {type: indent, offset: 580, content: 　, id: KR5g0029_ZTDZ_100-bkkind31}
   - {type: 'kr:newline', offset: 584, content: '
@@ -432,6 +439,7 @@ markers:
   - {type: indent, offset: 705, content: 　　　　　, id: KR5g0029_ZTDZ_100-bkkind41}
   - {type: indent, offset: 706, content: 　, id: KR5g0029_ZTDZ_100-bkkind42}
   - {type: punctuation, offset: 706, content: (, id: KR5g0029_ZTDZ_100-bkkpn22}
+  - {type: voice, offset: 706, length: 1, name: note, id: n8}
   - {type: punctuation, offset: 707, content: ), id: KR5g0029_ZTDZ_100-bkkpn23}
   - {type: indent, offset: 707, content: 　, id: KR5g0029_ZTDZ_100-bkkind43}
   - {type: 'kr:newline', offset: 711, content: '
@@ -537,6 +545,7 @@ markers:
   - {type: indent, offset: 832, content: 　　　　　, id: KR5g0029_ZTDZ_100-bkkind53}
   - {type: indent, offset: 833, content: 　, id: KR5g0029_ZTDZ_100-bkkind54}
   - {type: punctuation, offset: 833, content: (, id: KR5g0029_ZTDZ_100-bkkpn27}
+  - {type: voice, offset: 833, length: 1, name: note, id: n9}
   - {type: punctuation, offset: 834, content: ), id: KR5g0029_ZTDZ_100-bkkpn28}
   - {type: indent, offset: 834, content: 　, id: KR5g0029_ZTDZ_100-bkkind55}
   - {type: 'kr:newline', offset: 838, content: '
@@ -722,6 +731,7 @@ markers:
   - {type: indent, offset: 1062, content: 　　　　　　, id: KR5g0029_ZTDZ_100-bkkind75}
   - {type: indent, offset: 1063, content: 　, id: KR5g0029_ZTDZ_100-bkkind76}
   - {type: punctuation, offset: 1063, content: (, id: KR5g0029_ZTDZ_100-bkkpn32}
+  - {type: voice, offset: 1063, length: 1, name: note, id: n10}
   - {type: punctuation, offset: 1064, content: ), id: KR5g0029_ZTDZ_100-bkkpn33}
   - {type: indent, offset: 1064, content: 　, id: KR5g0029_ZTDZ_100-bkkind77}
   - {type: 'kr:newline', offset: 1068, content: '
@@ -783,4 +793,4 @@ markers:
 
       ', id: KR5g0029_ZTDZ_100-bkkp21}
   back: []
-hash: sha256:60baa7a236e6600f30067bca283da6b163fe081eb53eabc72e182f1c8233d730
+hash: sha256:ffb72907da6c4211123a149ec368ce9cb67ae0138992bee306829492a9ea0c9e

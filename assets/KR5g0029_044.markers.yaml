@@ -3623,6 +3623,7 @@ markers:
 
       ', id: KR5g0029_krp_044-bkkkrnewl672}
   - {type: line-break, offset: 7454, content: '', id: KR5g0029_HFL_044-031a05}
+  - {type: 'voice:problem', offset: 7454, length: 0, id: KR5g0029_bkk_044-bkkvprob1, source: parens, bucket: body, code: unmatched-open, message: unmatched '(' at offset 7454}
   - {type: 'kr:newline', offset: 7463, content: '
 
       ', id: KR5g0029_krp_044-bkkkrnewl673}
@@ -3676,4 +3677,4 @@ markers:
 
       ', id: KR5g0029_krp_044-bkkkrnewl689}
   back: []
-hash: sha256:7eea712dbc2b054c669d4fb602511efc038c9a2f745f546e3bea48e7ae1e5774
+hash: sha256:53992da6c4f9e03d93e2647ecae09046da2f7ecdb00c977aefc5b46017e8f3ed

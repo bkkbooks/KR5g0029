@@ -132,6 +132,7 @@ markers:
   - {type: line-break, offset: 348, content: '', id: KR5g0029_HFL_059-002a07}
   - {type: indent, offset: 348, content: 　　　　　　　, id: KR5g0029_HFL_059-bkkind12}
   - {type: punctuation, offset: 348, content: (, id: KR5g0029_HFL_059-bkkpn1}
+  - {type: voice, offset: 348, length: 8, name: note, id: n1}
   - {type: punctuation, offset: 352, content: ), id: KR5g0029_HFL_059-bkkpn2}
   - {type: 'kr:newline', offset: 352, content: '
 
@@ -171,6 +172,7 @@ markers:
   - {type: line-break, offset: 390, content: '', id: KR5g0029_HFL_059-002b04}
   - {type: indent, offset: 390, content: 　　　　　　　　　　　　　　, id: KR5g0029_HFL_059-bkkind17}
   - {type: punctuation, offset: 390, content: (, id: KR5g0029_HFL_059-bkkpn5}
+  - {type: voice, offset: 390, length: 6, name: note, id: n2}
   - {type: punctuation, offset: 392, content: ), id: KR5g0029_HFL_059-bkkpn6}
   - {type: 'kr:newline', offset: 392, content: '
 
@@ -222,6 +224,7 @@ markers:
   - {type: line-break, offset: 413, content: '', id: KR5g0029_HFL_059-003a02}
   - {type: indent, offset: 413, content: 　　　　　　　　　　　　, id: KR5g0029_HFL_059-bkkind23}
   - {type: punctuation, offset: 413, content: (, id: KR5g0029_HFL_059-bkkpn13}
+  - {type: voice, offset: 413, length: 8, name: note, id: n3}
   - {type: punctuation, offset: 417, content: /, id: KR5g0029_HFL_059-bkkpn14}
   - {type: punctuation, offset: 421, content: ), id: KR5g0029_HFL_059-bkkpn15}
   - {type: 'kr:newline', offset: 421, content: '
@@ -256,6 +259,7 @@ markers:
   - {type: line-break, offset: 440, content: '', id: KR5g0029_HFL_059-003b01}
   - {type: indent, offset: 440, content: 　　　　　　　　　　　　, id: KR5g0029_HFL_059-bkkind26}
   - {type: punctuation, offset: 440, content: (, id: KR5g0029_HFL_059-bkkpn16}
+  - {type: voice, offset: 440, length: 3, name: note, id: n4}
   - {type: punctuation, offset: 443, content: ), id: KR5g0029_HFL_059-bkkpn17}
   - {type: 'kr:newline', offset: 443, content: '
 
@@ -283,6 +287,7 @@ markers:
   - {type: line-break, offset: 448, content: '', id: KR5g0029_HFL_059-003b03}
   - {type: indent, offset: 448, content: 　　　　　　　　　　　　　　, id: KR5g0029_HFL_059-bkkind28}
   - {type: punctuation, offset: 448, content: (, id: KR5g0029_HFL_059-bkkpn18}
+  - {type: voice, offset: 448, length: 4, name: note, id: n5}
   - {type: punctuation, offset: 450, content: ), id: KR5g0029_HFL_059-bkkpn19}
   - {type: 'kr:newline', offset: 450, content: '
 
@@ -312,6 +317,7 @@ markers:
   - {type: line-break, offset: 466, content: '', id: KR5g0029_HFL_059-004a02}
   - {type: indent, offset: 466, content: 　　　, id: KR5g0029_HFL_059-bkkind31}
   - {type: punctuation, offset: 469, content: (, id: KR5g0029_HFL_059-bkkpn22}
+  - {type: voice, offset: 469, length: 10, name: note, id: n6}
   - {type: punctuation, offset: 474, content: /, id: KR5g0029_HFL_059-bkkpn23}
   - {type: punctuation, offset: 479, content: ), id: KR5g0029_HFL_059-bkkpn24}
   - {type: 'kr:newline', offset: 479, content: '
@@ -432,6 +438,7 @@ markers:
       ', id: KR5g0029_HFL_059-bkkkrnewl96}
   - {type: line-break, offset: 795, content: '', id: KR5g0029_HFL_059-005a09}
   - {type: punctuation, offset: 795, content: (, id: KR5g0029_HFL_059-bkkpn25}
+  - {type: voice, offset: 795, length: 1, name: note, id: n7}
   - {type: punctuation, offset: 796, content: ), id: KR5g0029_HFL_059-bkkpn26}
   - {type: 'kr:newline', offset: 812, content: '
 
@@ -457,6 +464,7 @@ markers:
   - {type: line-break, offset: 849, content: '', id: KR5g0029_HFL_059-005b03}
   - {type: indent, offset: 849, content: 　　　　, id: KR5g0029_HFL_059-bkkind38}
   - {type: punctuation, offset: 849, content: (, id: KR5g0029_HFL_059-bkkpn27}
+  - {type: voice, offset: 849, length: 2, name: note, id: n8}
   - {type: punctuation, offset: 850, content: ), id: KR5g0029_HFL_059-bkkpn28}
   - {type: 'kr:newline', offset: 850, content: '
 
@@ -975,4 +983,4 @@ markers:
 
       ', id: KR5g0029_HFL_059-bkkkrnewl219}
   back: []
-hash: sha256:e6265bf8b5c49fb8f65adaceabaa1e969a2f4105789918d1484089e02ab09f76
+hash: sha256:78ae0a09e4388baf8f3b47337bc99ce18351c9b595cb2185f1905206ca7cc9c2

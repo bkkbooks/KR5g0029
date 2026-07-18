@@ -2030,6 +2030,7 @@ markers:
   - {type: indent, offset: 4939, content: 　　　, id: KR5g0029_krp_056-bkkind188}
   - {type: punctuation, offset: 4944, content: (, id: KR5g0029_krp_056-bkkpn37}
   - {type: substitution, offset: 4944, original: 鎭, replacement: 鎮, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19899}}
+  - {type: 'voice:problem', offset: 4944, length: 72, id: KR5g0029_bkk_056-bkkvprob1, source: parens, bucket: body, code: expected-close, message: 'expected '')'' after ''('' at offset 4944, got ''('' at offset 5016'}
   - {type: punctuation, offset: 4951, content: /, id: KR5g0029_krp_056-bkkpn38}
   - {type: substitution, offset: 4952, original: 屍, replacement: 尸, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16180}}
   - {type: punctuation, offset: 4957, content: ), id: KR5g0029_krp_056-bkkpn39}
@@ -4410,4 +4411,4 @@ markers:
 
       ', id: KR5g0029_krp_056-bkkkrnewl926}
   back: []
-hash: sha256:659e2a9498a22242c936325385e74df12d9f029963ac4bb0d5972a435795bb05
+hash: sha256:d14ac06bc0a439571e377aa084b81719211f052fb892280b303115d12ba5547e

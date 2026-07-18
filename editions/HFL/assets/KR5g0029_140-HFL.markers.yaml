@@ -140,6 +140,7 @@ markers:
   - {type: line-break, offset: 105, content: '', id: KR5g0029_HFL_140-002a03}
   - {type: indent, offset: 105, content: 　　, id: KR5g0029_HFL_140-bkkind40}
   - {type: punctuation, offset: 113, content: (, id: KR5g0029_HFL_140-bkkpn1}
+  - {type: voice, offset: 113, length: 8, name: note, id: n1}
   - {type: punctuation, offset: 117, content: /, id: KR5g0029_HFL_140-bkkpn2}
   - {type: punctuation, offset: 121, content: ), id: KR5g0029_HFL_140-bkkpn3}
   - {type: 'kr:newline', offset: 121, content: '
@@ -188,6 +189,7 @@ markers:
   - {type: line-break, offset: 136, content: '', id: KR5g0029_HFL_140-002b01}
   - {type: indent, offset: 136, content: 　　　, id: KR5g0029_HFL_140-bkkind56}
   - {type: punctuation, offset: 136, content: (, id: KR5g0029_HFL_140-bkkpn4}
+  - {type: voice, offset: 136, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 137, content: ), id: KR5g0029_HFL_140-bkkpn5}
   - {type: 'kr:newline', offset: 137, content: '
 
@@ -651,6 +653,7 @@ markers:
   - {type: line-break, offset: 479, content: '', id: KR5g0029_HFL_140-007b03}
   - {type: indent, offset: 479, content: 　　　, id: KR5g0029_HFL_140-bkkind123}
   - {type: punctuation, offset: 482, content: (, id: KR5g0029_HFL_140-bkkpn6}
+  - {type: voice, offset: 482, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 484, content: /, id: KR5g0029_HFL_140-bkkpn7}
   - {type: punctuation, offset: 486, content: ), id: KR5g0029_HFL_140-bkkpn8}
   - {type: 'kr:newline', offset: 486, content: '
@@ -794,6 +797,7 @@ markers:
   - {type: line-break, offset: 527, content: '', id: KR5g0029_HFL_140-009a02}
   - {type: indent, offset: 527, content: 　　　　　　　　　　　, id: KR5g0029_HFL_140-bkkind136}
   - {type: punctuation, offset: 527, content: (, id: KR5g0029_HFL_140-bkkpn9}
+  - {type: voice, offset: 527, length: 9, name: note, id: n4}
   - {type: punctuation, offset: 532, content: /, id: KR5g0029_HFL_140-bkkpn10}
   - {type: punctuation, offset: 536, content: ), id: KR5g0029_HFL_140-bkkpn11}
   - {type: 'kr:newline', offset: 536, content: '
@@ -1998,4 +2002,4 @@ markers:
 
       ', id: KR5g0029_HFL_140-bkkkrnewl484}
   back: []
-hash: sha256:13e4df350afb607adf91082deeb47ef5a2f6f5a973403a30949d9efa9171b326
+hash: sha256:ae6f83d0fbb71c1af145dee3128254b26b74d66050fd021eabe13ad949920e1b

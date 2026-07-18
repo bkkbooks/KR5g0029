@@ -416,14 +416,19 @@ markers:
       ', id: KR5g0029_ZTDZ_186-bkkkrnewl93}
   - {type: line-break, offset: 1181, content: '', id: KR5g0029_SJB_186-300184c15}
   - {type: punctuation, offset: 1185, content: (, id: KR5g0029_ZTDZ_186-bkkpn1}
+  - {type: voice, offset: 1185, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 1186, content: ), id: KR5g0029_ZTDZ_186-bkkpn2}
   - {type: punctuation, offset: 1188, content: (, id: KR5g0029_ZTDZ_186-bkkpn3}
+  - {type: voice, offset: 1188, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 1189, content: ), id: KR5g0029_ZTDZ_186-bkkpn4}
   - {type: punctuation, offset: 1190, content: (, id: KR5g0029_ZTDZ_186-bkkpn5}
+  - {type: voice, offset: 1190, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 1191, content: ), id: KR5g0029_ZTDZ_186-bkkpn6}
   - {type: punctuation, offset: 1194, content: (, id: KR5g0029_ZTDZ_186-bkkpn7}
+  - {type: voice, offset: 1194, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 1195, content: ), id: KR5g0029_ZTDZ_186-bkkpn8}
   - {type: punctuation, offset: 1197, content: (, id: KR5g0029_ZTDZ_186-bkkpn9}
+  - {type: voice, offset: 1197, length: 1, name: note, id: n5}
   - {type: punctuation, offset: 1198, content: ), id: KR5g0029_ZTDZ_186-bkkpn10}
   - {type: 'kr:newline', offset: 1198, content: '
 
@@ -442,8 +447,10 @@ markers:
       ', id: KR5g0029_ZTDZ_186-bkkkrnewl97}
   - {type: line-break, offset: 1237, content: '', id: KR5g0029_SJB_186-300184c19}
   - {type: punctuation, offset: 1250, content: (, id: KR5g0029_ZTDZ_186-bkkpn11}
+  - {type: voice, offset: 1250, length: 1, name: note, id: n6}
   - {type: punctuation, offset: 1251, content: ), id: KR5g0029_ZTDZ_186-bkkpn12}
   - {type: punctuation, offset: 1252, content: (, id: KR5g0029_ZTDZ_186-bkkpn13}
+  - {type: voice, offset: 1252, length: 1, name: note, id: n7}
   - {type: punctuation, offset: 1253, content: ), id: KR5g0029_ZTDZ_186-bkkpn14}
   - {type: 'kr:newline', offset: 1254, content: '
 
@@ -711,4 +718,4 @@ markers:
 
       ', id: KR5g0029_ZTDZ_186-bkkp10}
   back: []
-hash: sha256:dae160b8c5885a2eff0aa0230f5b2ef2646554b7d8c931614ae7fee920d36243
+hash: sha256:ad126168df2ca6868432c026196b2940dab29d3c539c3df66b87a79b03e50715

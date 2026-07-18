@@ -305,6 +305,7 @@ markers:
       ', id: KR5g0029_ZTDZ_019-bkkkrnewl69}
   - {type: line-break, offset: 1088, content: '', id: KR5g0029_SJB_019-280780c10}
   - {type: punctuation, offset: 1093, content: (, id: KR5g0029_ZTDZ_019-bkkpn1}
+  - {type: voice, offset: 1093, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 1094, content: ), id: KR5g0029_ZTDZ_019-bkkpn2}
   - {type: paragraph-break, offset: 1105, content: '
 
@@ -320,6 +321,7 @@ markers:
       ', id: KR5g0029_ZTDZ_019-bkkkrnewl71}
   - {type: line-break, offset: 1139, content: '', id: KR5g0029_SJB_019-280780c13}
   - {type: punctuation, offset: 1146, content: (, id: KR5g0029_ZTDZ_019-bkkpn3}
+  - {type: voice, offset: 1146, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 1148, content: /, id: KR5g0029_ZTDZ_019-bkkpn4}
   - {type: punctuation, offset: 1150, content: ), id: KR5g0029_ZTDZ_019-bkkpn5}
   - {type: 'kr:newline', offset: 1154, content: '
@@ -349,6 +351,7 @@ markers:
       ', id: KR5g0029_ZTDZ_019-bkkkrnewl76}
   - {type: line-break, offset: 1187, content: '', id: KR5g0029_SJB_019-280780c18}
   - {type: punctuation, offset: 1189, content: (, id: KR5g0029_ZTDZ_019-bkkpn6}
+  - {type: voice, offset: 1189, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 1190, content: ), id: KR5g0029_ZTDZ_019-bkkpn7}
   - {type: 'kr:newline', offset: 1201, content: '
 
@@ -390,6 +393,7 @@ markers:
       ', id: KR5g0029_ZTDZ_019-bkkkrnewl85}
   - {type: line-break, offset: 1320, content: '', id: KR5g0029_SJB_019-280781a06}
   - {type: punctuation, offset: 1321, content: (, id: KR5g0029_ZTDZ_019-bkkpn9}
+  - {type: voice, offset: 1321, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 1322, content: ), id: KR5g0029_ZTDZ_019-bkkpn10}
   - {type: 'kr:newline', offset: 1337, content: '
 
@@ -707,4 +711,4 @@ markers:
 
       ', id: KR5g0029_ZTDZ_019-bkkp10}
   back: []
-hash: sha256:4524698f5ae90cec40cd7659b07b72ccc697dbff3b49216d0b09027aa6ed6f18
+hash: sha256:d236b8ae4690dcdf39ca5c01afa3b32dc106abadbd2a5a48af81eb42d8ddac8f
